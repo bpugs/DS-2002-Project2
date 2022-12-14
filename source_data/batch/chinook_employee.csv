@@ -1,0 +1,9 @@
+employee_key,LastName,FirstName,Title,ReportsTo,Address,City,State,Country,PostalCode,Phone
+1,Adams,Andrew,"General Manager",NULL,"11120 Jasper Ave NW",Edmonton,AB,Canada,"T5K 2N1","+1 (780) 428-9482"
+2,Edwards,Nancy,"Sales Manager",1,"825 8 Ave SW",Calgary,AB,Canada,"T2P 2T3","+1 (403) 262-3443"
+3,Peacock,Jane,"Sales Support Agent",2,"1111 6 Ave SW",Calgary,AB,Canada,"T2P 5M5","+1 (403) 262-3443"
+4,Park,Margaret,"Sales Support Agent",2,"683 10 Street SW",Calgary,AB,Canada,"T2P 5G3","+1 (403) 263-4423"
+5,Johnson,Steve,"Sales Support Agent",2,"7727B 41 Ave",Calgary,AB,Canada,"T3B 1Y7","1 (780) 836-9987"
+6,Mitchell,Michael,"IT Manager",1,"5827 Bowness Road NW",Calgary,AB,Canada,"T3B 0C5","+1 (403) 246-9887"
+7,King,Robert,"IT Staff",6,"590 Columbia Boulevard West",Lethbridge,AB,Canada,"T1K 5N8","+1 (403) 456-9986"
+8,Callahan,Laura,"IT Staff",6,"923 7 ST NW",Lethbridge,AB,Canada,"T1H 1Y8","+1 (403) 467-3351"
